@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactassessment/static/css/main.a223ee76.css",
+    "main.js": "/reactassessment/static/js/main.5c7b8902.js",
+    "index.html": "/reactassessment/index.html",
+    "main.a223ee76.css.map": "/reactassessment/static/css/main.a223ee76.css.map",
+    "main.5c7b8902.js.map": "/reactassessment/static/js/main.5c7b8902.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a223ee76.css",
+    "static/js/main.5c7b8902.js"
+  ]
+}
